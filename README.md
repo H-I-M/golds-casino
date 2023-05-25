@@ -8,7 +8,7 @@ This is a MVP POC Casino backend API for a casino start-up using :
 * Swagger 2
 * Lombok
 
-The H2 database console can be accesed on http://localhost:8080/h2 and the API endpoints on http://localhost:8080/swagger-ui/index.html ,or via a RESTClient(Postman) making calls to http://localhost:8080/casino/ .
+The H2 database console can be accesed on http://localhost:8080/h2 and the API endpoints on http://localhost:8080/swagger-ui/index.html ,or via a RESTClient (Postman) making calls to http://localhost:8080/casino/ .
 
 # Note
 
